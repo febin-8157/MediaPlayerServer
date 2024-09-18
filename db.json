@@ -1,0 +1,104 @@
+{
+  "allvideos": [
+    {
+      "id": "5ccf",
+      "caption": "Deadpool and Wolverine",
+      "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/353CC6E434CA544C677596ACDDE553B762C4D4E49E52F36B4C3205EA49CFA8DD/scale?width=1200&aspectRatio=1.78&format=webp",
+      "link": "https://www.youtube.com/embed/73_1biulkYk"
+    },
+    {
+      "id": "a4fb",
+      "caption": "Illuminatti",
+      "url": "https://www.nowrunning.com/content/movie/2024/avesh-29020/bg2_avesham.jpg",
+      "link": "https://www.youtube.com/embed/yH7eDWTH5iM"
+    },
+    {
+      "id": "6104",
+      "caption": "leo trailer",
+      "url": "https://occ-0-8407-2219.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfAjTWV_un8QDeuY6BOHfenHF5tL3Jf4e9HiVapqaznk2WmVuB36GxTCCIOvjKgPMi9EVm7YhFwA2_rn7f8sMPhJdC_O1rBG57ka.jpg?r=c57",
+      "link": "https://www.youtube.com/embed/Po3jStA673E"
+    }
+  ],
+  "category": [
+    {
+      "id": "c484",
+      "categoryName": "Trailers",
+      "allVideos": [
+        {
+          "id": "cccb",
+          "caption": "Vazha trailer",
+          "url": "https://m.media-amazon.com/images/M/MV5BNTM4NWRmNTQtOWI3Ni00ZDVjLWExN2YtZjk5YmY1ZDk2ODAwXkEyXkFqcGc@._V1_.jpg",
+          "link": "https://www.youtube.com/embed/87IzSX3PpuA"
+        },
+        {
+          "id": "8295",
+          "caption": "Vettayan Manasilayo",
+          "url": "https://static.tnn.in/thumb/msid-113198202,width-1280,height-720,resizemode-75/113198202.jpg?quality=100",
+          "link": "https://www.youtube.com/embed/AiD6SOOBKZI"
+        },
+        {
+          "id": "18c3",
+          "caption": "Deadpool and Wolverine",
+          "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/353CC6E434CA544C677596ACDDE553B762C4D4E49E52F36B4C3205EA49CFA8DD/scale?width=1200&aspectRatio=1.78&format=webp",
+          "link": "https://www.youtube.com/embed/73_1biulkYk"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "b240",
+      "caption": "leo trailer",
+      "link": "https://www.youtube.com/embed/Po3jStA673E",
+      "timeStamp": "9/7/2024, 11:42:39 AM GMT+5:30"
+    },
+    {
+      "id": "f426",
+      "caption": "KGF CHAPTER 2",
+      "link": "https://www.youtube.com/embed/fQOjh-mmNKo",
+      "timeStamp": "9/9/2024, 12:47:43 PM GMT+5:30"
+    },
+    {
+      "id": "6189",
+      "caption": "Vettayan Manasilayo",
+      "link": "https://www.youtube.com/embed/AiD6SOOBKZI",
+      "timeStamp": "9/10/2024, 11:14:38 AM GMT+5:30"
+    },
+    {
+      "id": "6b06",
+      "caption": "Vettayan Manasilayo",
+      "link": "https://www.youtube.com/embed/AiD6SOOBKZI",
+      "timeStamp": "9/10/2024, 6:14:54 PM GMT+5:30"
+    },
+    {
+      "id": "8cbd",
+      "caption": "KGF CHAPTER 2",
+      "link": "https://www.youtube.com/embed/fQOjh-mmNKo",
+      "timeStamp": "9/10/2024, 6:36:46 PM GMT+5:30"
+    },
+    {
+      "id": "87cd",
+      "caption": "KGF CHAPTER 2",
+      "link": "https://www.youtube.com/embed/fQOjh-mmNKo",
+      "timeStamp": "9/10/2024, 6:45:08 PM GMT+5:30"
+    },
+    {
+      "id": "f9c6",
+      "caption": "KGF CHAPTER 2",
+      "link": "https://www.youtube.com/embed/fQOjh-mmNKo",
+      "timeStamp": "9/10/2024, 6:45:12 PM GMT+5:30"
+    },
+    {
+      "id": "e506",
+      "caption": "Vettayan Manasilayo",
+      "link": "https://www.youtube.com/embed/AiD6SOOBKZI",
+      "timeStamp": "9/10/2024, 6:46:37 PM GMT+5:30"
+    },
+    {
+      "id": "0a20",
+      "caption": "Deadpool and Wolverine",
+      "link": "https://www.youtube.com/embed/73_1biulkYk",
+      "timeStamp": "9/11/2024, 11:44:10 AM GMT+5:30"
+    }
+  ]
+}
